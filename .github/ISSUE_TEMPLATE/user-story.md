@@ -1,11 +1,4 @@
----
-name: User Story
-about: template for creating user stories
-title: ''
-labels: ''
-assignees: ''
 
----
 
 ---
 name: User Story
